@@ -1,0 +1,1 @@
+{"duration": 1.1703100204467773, "input_args": {"data_imgs": "'/data/rmthomas/nilearn_data/adhd/data/0010042/0010042_rest_tshift_RPI_voreg_mni.nii.gz'", "border_size": "2", "connected": "False", "opening": "False", "target_affine": "None", "target_shape": "None", "memory": "None"}}
